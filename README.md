@@ -1,2 +1,2 @@
 # shopping cart app
-an app where you enter the food iter and orice then the app show you your cart and total to be paud
+a program where you enter the food iterm and price, then the program shows you your cart and total to be paid
